@@ -1,1 +1,1 @@
-# Liver-Diseases-prediction
+# Liver-Disease-Prediction
